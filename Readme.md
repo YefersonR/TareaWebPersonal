@@ -10,4 +10,4 @@
 - Links a sus redes sociales
 - Insertar algún video de youtube de su agrado
  ----
-![Preview](./assets/Preview.png)
+![Preview](https://github.com/YefersonR/TareaWebPersonal/blob/master/Assets/Preview.PNG?raw=true)
