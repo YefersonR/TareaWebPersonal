@@ -10,3 +10,4 @@
 - Links a sus redes sociales
 - Insertar algún video de youtube de su agrado
  ----
+![Preview](./assets/Preview.png)
